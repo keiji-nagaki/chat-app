@@ -1,8 +1,8 @@
 # バルブ保全管理
 
 ## DEMO
+https://keiji-nagaki.github.io/chat-app/
 
-[label](https://keiji-nagaki.github.io/chat-app/)
 ## 紹介と使い方
 
   バルブの保全管理・購買・お問合せを一元管理するもの
